@@ -1,7 +1,7 @@
-# 📌 HR / Salary Data Analysis
+# 📌 Attendance Data Analysis
 
 ## 🎯 Objective
-Analyze salary data to uncover compensation trends across roles, locations, and experience levels.
+Analyze attendance data to uncover compensation trends across roles, locations, and experience levels.
 
 ## 🧭 Project Workflow
 - Introduction & Business Context  
@@ -13,8 +13,16 @@ Analyze salary data to uncover compensation trends across roles, locations, and 
 
 ## 🔍 Key Highlights
 - Processed HR datasets using Python & Excel  
-- Visualized salary distribution and role-based trends  
+- Visualized attendance  
 - Built dashboards to support HR decision-making  
 
 ## 🛠️ Skills Applied
 Python • Excel • DAX • Data Visualization • Statistical Thinking • HR Analytics
+## 📊 Dashboard Preview
+
+![HR Salary Dashboard](screenshots/dashboard.png)
+
+**Dashboard Insights:**
+- Salary distribution across job roles  
+- Experience-wise compensation trends  
+- Location-based pay comparison  
