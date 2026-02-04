@@ -20,7 +20,8 @@ Analyze attendance data to uncover compensation trends across roles, locations, 
 Python • Excel • DAX • Data Visualization • Statistical Thinking • HR Analytics
 ## 📊 Dashboard Preview
 
-![HR Salary Dashboard](screenshots/dashboard.png)
+<img width="1225" height="670" alt="Screenshot 2026-02-04 134016" src="https://github.com/user-attachments/assets/26fbe1e9-9d4e-4895-b792-634765a744bf" />
+
 
 **Dashboard Insights:**
 - Salary distribution across job roles  
